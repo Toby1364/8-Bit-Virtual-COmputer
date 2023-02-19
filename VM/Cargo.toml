@@ -1,7 +1,0 @@
-[package]
-name = "vm_8bit"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-macroquad = "0.3.25"
